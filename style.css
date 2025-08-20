@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Overpass:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root {
+    --l-gray: hsl(0, 0%, 20%);
+    --m-gray: hsl(0, 0%, 12%);
+    --h-gray: hsl(0, 0%, 8%);
+    --nature-green: sl(75, 94%, 57%);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: var(--h-gray);
+    font-family: 'Inter', serif;
+}
+
+.container {
+    width: 350px;
+    max-width: 100%;
+    background-color: var(--m-gray);
+    color: white;
+}
