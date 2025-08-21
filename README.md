@@ -22,11 +22,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./assets/images/Screencast-from-2025-08-21-14-55-08.gif)
+![](./assets/images/Screencastfrom2025-08-2114-55-08-ezgif.com-video-to-gif-converter.gif)
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/social-links-profile-with-html-and-css-Ubyx0yedpZ)
 - Live Site URL: [Live site](https://incomparable-praline-0cd9d5.netlify.app/)
 
 ## My process
