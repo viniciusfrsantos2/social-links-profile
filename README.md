@@ -41,4 +41,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@viniciusfrsantos2](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@viniciusfrsantos2](https://www.frontendmentor.io/profile/viniciusfrsantos2)
